@@ -82,11 +82,11 @@ Notification Service
 
 ##  Tech Stack
 
-* **Backend:** Spring Boot / ASP.NET Core (microservice-ready)
+* **Backend:** Spring Boot 
 * **Messaging:** RabbitMQ, Apache Kafka
 * **Database:** MySQL / PostgreSQL (per service)
 * **API Style:** REST APIs
-* **Build Tool:** Maven / Gradle / .NET CLI
+* **Build Tool:** Maven / Gradle 
 * **Containerization:** Docker (optional)
 
 ---
